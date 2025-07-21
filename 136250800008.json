@@ -1,5 +1,6 @@
 {
     "merchant": {
+        "pos" : "S1F4_OKC",
         "merchantCity": "HRAKLEION",
         "merchantCategoryCode": "7399",
         "merchantApplicationType": "0",
