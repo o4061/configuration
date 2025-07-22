@@ -1,1 +1,13 @@
-# configuration
+S1F4_OKC -> https://github.com/o4061/configuration/blob/main/136250800008.json
+S1F3_CT -> https://github.com/o4061/configuration/blob/main/139245006568.json
+S1F2 -> https://github.com/o4061/configuration/blob/main/158230908831.json
+S1E2 -> https://github.com/o4061/configuration/blob/main/166230719921.json
+S1E2-L -> https://github.com/o4061/configuration/blob/main/166241818043.json
+S1_MINI -> https://github.com/o4061/configuration/blob/main/169223033271.json
+S1P -> https://github.com/o4061/configuration/blob/main/177234914536.json
+S1F3 -> https://github.com/o4061/configuration/blob/main/181234921233.json
+A920_PRO -> https://github.com/o4061/configuration/blob/main/1851581451.json
+S1P2 -> https://github.com/o4061/configuration/blob/main/191241009770.json
+S1_MINI2 -> https://github.com/o4061/configuration/blob/main/192241009858.json
+S1F4_PRO -> https://github.com/o4061/configuration/blob/main/195242599777.json
+S1U2 -> https://github.com/o4061/configuration/blob/main/573223200047.json
