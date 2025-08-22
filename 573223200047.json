@@ -19,11 +19,47 @@
   "multiAcq": {
     "acquirers": [
       {
+        "acqIndetifier": "014",
+        "acqName": "Nexi",
+        "allowLocal": true,
+        "allowRefund": true,
+        "allowKeyEntry": true,
+        "allowMoto": true,
+        "premiumLocalApprovalCode": ""
+      },
+      {
         "acqIndetifier": "026",
         "acqName": "Worldline",
-        "allowLocal": false,
+        "allowLocal": true,
         "allowRefund": true,
-        "allowKeyEntry": false,
+        "allowKeyEntry": true,
+        "allowMoto": true,
+        "premiumLocalApprovalCode": ""
+      },
+      {
+        "acqIndetifier": "011",
+        "acqName": "National Bank",
+        "allowLocal": true,
+        "allowRefund": true,
+        "allowKeyEntry": true,
+        "allowMoto": true,
+        "premiumLocalApprovalCode": ""
+      },
+      {
+        "acqIndetifier": "017",
+        "acqName": "Piraeus Bank",
+        "allowLocal": true,
+        "allowRefund": true,
+        "allowKeyEntry": true,
+        "allowMoto": true,
+        "premiumLocalApprovalCode": ""
+      },
+      {
+        "acqIndetifier": "016",
+        "acqName": "Aticca Bank",
+        "allowLocal": true,
+        "allowRefund": true,
+        "allowKeyEntry": true,
         "allowMoto": true,
         "premiumLocalApprovalCode": ""
       }
@@ -41,18 +77,18 @@
   "applicationSettings": {
     "sdkLink": 1,
     "useMastercardNewBrand": true,
-    "supportKeyEntry": false,
-    "supportInstallments": false,
-    "supportTIP": false,
+    "supportKeyEntry": true,
+    "supportInstallments": true,
+    "supportTIP": true,
     "useBenakiTheme": false,
     "useVodafoneTheme": false,
     "useSklavenitisTheme": false,
     "autoReactivationTimer": "180",
     "useAutoSettlement": false,
     "useAutoCloseBatch": true,
-    "useAutoCloseBatchTimer": "15:55",
+    "useAutoCloseBatchTimer": "22:53",
     "useAutoParams": true,
-    "useAutoParamsTimer": "15:33",
+    "useAutoParamsTimer": "09:58",
     "alphaBankDCCSupport": true,
     "alphaBankDCCProfileId": "19010",
     "alphaBankDCCPartnerId": "9010",
@@ -66,8 +102,8 @@
     "ishceSelectionEnabled": false,
     "ishceSelectionAcquirerBankId": "011",
     "refundValidationEnabled": false,
-    "localSaleEnabled": false,
-    "isManualAcquirerSelection": false,
+    "localSaleEnabled": true,
+    "isManualAcquirerSelection": true,
     "preAuthEnabled": true,
     "unattendedMode": false,
     "mdbManagerEnabled": false,
@@ -75,7 +111,7 @@
     "fileLoggerMBCapacity": 200,
     "freeRefundEnabled": true,
     "freeCompletionEnabled": true,
-    "supportPleaseCallMeEnabled": false,
+    "supportPleaseCallMeEnabled": true,
     "supportConfiguration": {
       "id": "2013",
       "name": "Basic",
@@ -86,7 +122,7 @@
         "callMe": "support@cardlink.gr"
       }
     },
-    "supportOrderThermalRollEnabled": false,
+    "supportOrderThermalRollEnabled": true,
     "receiptSettings": {
       "showEmvDataInReceipt": false,
       "acquirerBankNameAsBIDSetting": false,
@@ -99,29 +135,29 @@
     }
   },
   "loyaltySettings": {
-    "alphaBankBonusEnabled": false,
+    "alphaBankBonusEnabled": true,
     "alphaBankBonusVTid": "77605412",
     "alphaBankBonusVMid": "0023839673",
     "useAlphaBankBonusBRAmount": true,
     "useAlphaBankBonusWithoutOffers": false,
-    "eurobankEuroepistrofiEnabled": false,
+    "eurobankEuroepistrofiEnabled": true,
     "eurobankEuroepistrofiVTid": "77605412",
     "eurobankEuroepistrofiVMid": "0023839673",
     "eurobankEuroepistrofiUploadFullRedemption": true,
-    "nbgGo4MoreEnabled": false,
+    "nbgGo4MoreEnabled": true,
     "nbgGo4MoreVTid": "31999982",
     "nbgGo4MoreVMid": "1235661",
-    "pbgYellowEnabled": false,
+    "pbgYellowEnabled": true,
     "pbgYellowVTid": "99923870",
     "pbgYellowVMid": "142647833",
     "pbgYellowPointsToRedeem": "2000",
-    "sklavenitisPrepaidEnabled": false,
-    "asfalistikosgoneasEnabled": false,
-    "asfalistikosgoneasForceOnline": false,
+    "sklavenitisPrepaidEnabled": true,
+    "asfalistikosgoneasEnabled": true,
+    "asfalistikosgoneasForceOnline": true,
     "cardlinkLoyaltyEnabled": false
   },
   "ecrSettings": {
-    "ecrSystem": false,
+    "ecrSystem": true,
     "ecrSystemDefaultPort": 4000,
     "ecrSystemMode": 0,
     "ecrSystemProtocol": 0,
