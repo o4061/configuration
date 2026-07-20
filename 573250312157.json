@@ -18,8 +18,8 @@
    "multiAcq":{
       "acquirers":[
          {
-            "acqIndetifier":"017",
-            "acqName":"epay",
+            "acqIndetifier":"026",
+            "acqName":"Worldline",
             "allowLocal":true,
             "allowPremiumLocal":false,
             "allowRefund":true,
@@ -115,7 +115,7 @@
       "useAlphaBankBonusBRAmount":false,
       "useAlphaBankBonusWithoutOffers":true,
       "eurobankEuroepistrofiEnabled":true,
-      "eurobankEuroepistrofiVTid":"79801004",
+      "eurobankEuroepistrofiVTid":"76000007",
       "eurobankEuroepistrofiVMid":"0023839673",
       "eurobankEuroepistrofiUploadFullRedemption":true,
       "nbgGo4MoreEnabled":false,
