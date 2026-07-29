@@ -18,8 +18,8 @@
   "multiAcq":{
       "acquirers":[
          {
-            "acqIndetifier":"017",
-            "acqName":"epay",
+            "acqIndetifier":"026",
+            "acqName":"Worldline",
             "allowLocal":true,
             "allowPremiumLocal":false,
             "allowRefund":true,
