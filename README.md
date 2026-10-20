@@ -21,4 +21,4 @@ This repository contains configuration files for various POS terminal models. Ea
 | **S1F4K**      | [188252042046.json](https://github.com/o4061/configuration/blob/main/137252123987.json) |
 | **S1F4**       | [195242599777.json](https://github.com/o4061/configuration/blob/main/188252042046.json) |
 | **S1U2-M4**    | [115251666105.json](https://github.com/o4061/configuration/blob/main/115251666105.json) |
-| **S1U2**       | [573223200047.json](https://github.com/o4061/configuration/blob/main/573223200047.json) |
+| **S1U2**       | [573223200047.json](https://github.com/o4061/configuration/blob/main/573250312157.json) |
