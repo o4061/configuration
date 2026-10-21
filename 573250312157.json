@@ -1299,10 +1299,10 @@
           "additionalTerminalCapabilities": "E000F0A001",
           "emvApplicationVersionList": "0001",
           "msdApplicationVersionList": "0001",
-          "terminalTransactionQualifier": "B600400000",
-          "terminalTransactionQualifierCashback": "B600400000",
-          "terminalTransactionQualifierCash": "B600400000",
-          "terminalTransactionQualifierRefund": "B600400000",
+          "terminalTransactionQualifier": "3780400000",
+          "terminalTransactionQualifierCashback": "3780400000",
+          "terminalTransactionQualifierCash": "3780400000",
+          "terminalTransactionQualifierRefund": "3780400000",
           "ctlsTACOnline": "FC78FCF8F0",
           "ctlsTACDefault": "FC78FCF8F0",
           "ctlsTACDenial": "0010000000",
@@ -1314,9 +1314,7 @@
           "contactFloorLimitCheck": "1",
           "contactRandomTransactionSelect": "1",
           "velocityCheck": "1",
-          "thresholdValueInRandomSelection": "0",
-          "alphabankDccBelowCvmLimit": true,
-          "eurobankDccBelowCvmLimit": true
+          "thresholdValueInRandomSelection": "0"
         },
         {
           "aidName": "ZIP",
