@@ -4,8 +4,8 @@
     "merchantCategoryCode": "7399",
     "merchantApplicationType": "0",
     "merchantPostalCode": "14121",
-    "merchantName": "S1U2 FALTAKAS2",
-    "merchantAddress": "Mesogeion 44-46 N.psyxiko",
+    "merchantName": "S1U2 FALTAKAS",
+    "merchantAddress": "Marinou Antupa 41-45",
     "merchantTelephone": "2106100670",
     "merchantVatNumber": "979703476",
     "cardlinkMerchantType": "",
@@ -18,8 +18,8 @@
   "multiAcq": {
     "acquirers": [
       {
-        "acqIndetifier": "026",
-        "acqName": "Worldline",
+        "acqIndetifier": "014",
+        "acqName": "Nexi",
         "allowLocal": true,
         "allowPremiumLocal": false,
         "allowRefund": true,
@@ -42,7 +42,7 @@
     "sdkLink": 1,
     "useMastercardNewBrand": true,
     "supportKeyEntry": true,
-    "supportInstallments": true,
+    "supportInstallments": false,
     "supportTIP": false,
     "useBenakiTheme": false,
     "useVodafoneTheme": false,
