@@ -823,7 +823,7 @@
   },
   "androidPOSParams": {
     "emvConfig": {
-      "terminalCapabilities": "E0F8C8",
+      "terminalCapabilities": "E058C8",
       "terminalAdditionalCapabilities": "c000f0a001",
       "terminalCountryCode": "300",
       "terminalType": "22",
