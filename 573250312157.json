@@ -1294,7 +1294,7 @@
           "transactionLimit": "99999",
           "cvmRequiredLimit": "5000",
           "onDeviceCvmTransactionLimit": "999999",
-          "terminalCapabilities": "E0F8C8",
+          "terminalCapabilities": "E058C8",
           "terminalCapabilitiesNoCvm": "E0F8C8",
           "additionalTerminalCapabilities": "E000F0A001",
           "emvApplicationVersionList": "0001",
