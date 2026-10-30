@@ -10,7 +10,7 @@
     "merchantVatNumber": "979703476",
     "cardlinkMerchantType": "",
     "merchantID": "0023839673",
-    "terminalID": "76000007",
+    "terminalID": "77246073",
     "customerID": "00000000000001",
     "acqIndetifier": "",
     "acqName": ""
@@ -18,8 +18,8 @@
   "multiAcq": {
     "acquirers": [
       {
-        "acqIndetifier": "014",
-        "acqName": "Nexi",
+        "acqIndetifier": "011",
+        "acqName": "NBG",
         "allowLocal": true,
         "allowPremiumLocal": false,
         "allowRefund": true,
@@ -109,8 +109,8 @@
     "eurobankEuroepistrofiVMid": "0023839673",
     "eurobankEuroepistrofiUploadFullRedemption": true,
     "nbgGo4MoreEnabled": false,
-    "nbgGo4MoreVTid": "",
-    "nbgGo4MoreVMid": "5057221",
+    "nbgGo4MoreVTid": "1235661",
+    "nbgGo4MoreVMid": "31999982",
     "pbgYellowEnabled": true,
     "pbgYellowVTid": "",
     "pbgYellowVMid": "",
