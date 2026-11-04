@@ -593,7 +593,7 @@
           "allowCashback": true,
           "allowRefund": true,
           "floorLimit": "0",
-          "ctlsFloorLimit": "0",
+          "ctlsFloorLimit": "800",
           "transactionLimit": "99999",
           "cvmRequiredLimit": "1000",
           "terminalCapabilities": "E0F8C8",
