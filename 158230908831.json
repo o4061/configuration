@@ -595,7 +595,7 @@
           "floorLimit": "0",
           "ctlsFloorLimit": "0",
           "transactionLimit": "99999",
-          "cvmRequiredLimit": "1200",
+          "cvmRequiredLimit": "1000",
           "terminalCapabilities": "E0F8C8",
           "terminalCapabilitiesNoCvm": "E0F8C8",
           "additionalTerminalCapabilities": "E000F0A001",
