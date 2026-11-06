@@ -823,7 +823,7 @@
   },
   "androidPOSParams": {
     "emvConfig": {
-      "terminalCapabilities": "E058C8",
+      "terminalCapabilities": "E0F8C8",
       "terminalAdditionalCapabilities": "c000f0a001",
       "terminalCountryCode": "300",
       "terminalType": "25",
@@ -845,7 +845,7 @@
           "transactionLimit": "999999",
           "cvmRequiredLimit": "5000",
           "onDeviceCvmTransactionLimit": "999999",
-          "terminalCapabilities": "E058C8",
+          "terminalCapabilities": "E0F8C8",
           "terminalCapabilitiesNoCvm": "E008C8",
           "additionalTerminalCapabilities": "6000002001",
           "emvApplicationVersionList": "0002",
@@ -899,7 +899,7 @@
           "transactionLimit": "999999",
           "cvmRequiredLimit": "5000",
           "onDeviceCvmTransactionLimit": "999999",
-          "terminalCapabilities": "E058C8",
+          "terminalCapabilities": "E0F8C8",
           "terminalCapabilitiesNoCvm": "E008C8",
           "additionalTerminalCapabilities": "6000002001",
           "emvApplicationVersionList": "0002",
