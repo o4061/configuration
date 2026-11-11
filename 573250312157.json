@@ -10,7 +10,7 @@
     "merchantVatNumber": "979703476",
     "cardlinkMerchantType": "",
     "merchantID": "0023839673",
-    "terminalID": "77246073",
+    "terminalID": "76000007",
     "customerID": "00000000000001",
     "acqIndetifier": "",
     "acqName": ""
@@ -18,8 +18,8 @@
   "multiAcq": {
     "acquirers": [
       {
-        "acqIndetifier": "011",
-        "acqName": "NBG",
+        "acqIndetifier": "014",
+        "acqName": "Nexi",
         "allowLocal": true,
         "allowPremiumLocal": false,
         "allowRefund": true,
